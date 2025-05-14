@@ -1,5 +1,4 @@
 # EX 10 C program to find the factorial of a given number using a function with arguments and return type.
-## DATE:
 ## AIM:
 To write a C program to find the factorial of a given number using a function with arguments and return type.
 
